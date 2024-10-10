@@ -1,5 +1,5 @@
-# Tableau
-Revenue Metrics
+# Revenue Metrics
+This is a project where I present financial flows to provide clear and interactive financial analysis based on the collected data. Check it out 
 
 https://public.tableau.com/views/FinalProject2REVENUEMETRICS/Project2RevenueMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
