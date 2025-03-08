@@ -1,5 +1,55 @@
-# Revenue Metrics
-This is a project where I present financial flows to provide clear and interactive financial analysis based on the collected data. Check it out 
+# *Revenue Metrics*
+
+
+### 📝 Project description 
+
+The project concerns the revenue generated from video games sales between March and December 2022. It will enable product managers to track the dynamics of revenue changes and analyze the factors influencing these revenues.
+
+### 🎯 Goals
+
+✅ Merging data from the tables: facebook_adset, facebook_campaign, facebook_ads_basic_daily, and google_ads_basic_daily into a single database.
+
+✅ Calculating key marketing metrics (CPC, CPM, CTR, ROMI).
+
+✅ Analyzing campaign performance by traffic source and channel.
+
+✅ Generating reports and visualizing results.
+
+### 🛠 Technologies
+
+🔹 SQL (PostgreSQL/DBeaver)
+
+🔹 Tableau 
+
+
+### 📊 Key metrics
+
+📌 CPC (Cost Per Click) = Campaign cost / Number of clicks
+
+📌 CPM (Cost Per Mille) = (Campaign cost / Number of impressions) * 1000
+
+📌 CTR (Click-Through Rate) = (Number of clicks / Number of impressions) * 100%
+
+📌 ROMI (Return on Marketing Investment) = [(Revenue - Costs) / Costs] * 100%
+
+
+### 🏛 Source tables
+
+📌 facebook_ads_basic_daily, facebook_adset, facebook_campaign – Facebook Ads campaign data
+
+📌 google_ads_basic_daily – Google Ads campaign data
+
+📌 campaign_name – a table combining campaigns from both platforms
+
+### 💡 Conclusions
+
+✅ The analysis allows for comparing campaign performance across different platforms.
+
+✅ We can identify which campaigns generate the highest return on marketing investment (ROMI).
+
+✅ It enables budget optimization and more effective targeting.
+
+### 🔗 Link
 
 https://public.tableau.com/views/FinalProject2REVENUEMETRICS/Project2RevenueMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
