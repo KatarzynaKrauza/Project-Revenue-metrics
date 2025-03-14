@@ -51,13 +51,13 @@ The project concerns the revenue generated from video games sales between March 
 📌 projekt 2PP - query for payment month, MRR, new MRR, new users, churned users, churned revenue
 
 
-### 💡 Conclusions
+### 💡 Results and conclusions
 
-✅ The analysis allows for comparing campaign performance across different platforms.
+✅ 
 
-✅ We can identify which campaigns generate the highest return on marketing investment (ROMI).
+✅ 
 
-✅ It enables budget optimization and more effective targeting.
+✅ 
 
 ### 🔗 Link
 
