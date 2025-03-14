@@ -24,22 +24,22 @@ The project concerns the revenue generated from video games sales between March 
 
 ### 📊 Key metrics
 
-📌 CPC (Cost Per Click) = Campaign cost / Number of clicks
-
-📌 CPM (Cost Per Mille) = (Campaign cost / Number of impressions) * 1000
-
-📌 CTR (Click-Through Rate) = (Number of clicks / Number of impressions) * 100%
-
-📌 ROMI (Return on Marketing Investment) = [(Revenue - Costs) / Costs] * 100%
+1. Monthly Recurring Revenue (MRR) 
+2. Paid Users
+3. Average Revenue Per Paid User (ARPPU)
+4. New Paid Users
+5. New MRR 
+6. Churned Users 
+7. Churn Rate 
+8. Churned revenue 
+9. Revenue Churn rate 
+10. Customer LifeTime (LT)
+11. Customer LifeTime Value (LTV) 
 
 
 ### 🏛 Source tables
 
-📌 facebook_ads_basic_daily, facebook_adset, facebook_campaign – Facebook Ads campaign data
-
-📌 google_ads_basic_daily – Google Ads campaign data
-
-📌 campaign_name – a table combining campaigns from both platforms
+📌 
 
 ### 💡 Conclusions
 
