@@ -39,7 +39,11 @@ The project concerns the revenue generated from video games sales between March 
 
 ### 🏛 Source tables
 
-📌 games_paid_users - 
+📌 games_paid_users - table containing user data (user id, game name, language, age)
+
+📌 projects_games_payments - table containing user payment data (user id, game name, payment date, revenue)
+
+📌
 
 ### 💡 Conclusions
 
