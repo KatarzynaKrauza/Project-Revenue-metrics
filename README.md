@@ -1,11 +1,10 @@
-# *Revenue Metrics*
+<h1 align="center">Revenue Metrics</h1>
 
-
-### 📝 Project description 
+## 📝 Project description
 
 The project concerns the revenue generated from video games sales between March and December 2022. It will enable product managers to track the dynamics of revenue changes and analyze the factors influencing these revenues.
 
-### 🎯 Goals
+## 🎯 Goals
 
 ✅ Calculating financial metrics – Analyzing MRR, new users, churned users, and their impact on overall revenue
 
@@ -20,14 +19,14 @@ The project concerns the revenue generated from video games sales between March 
 ✅ Visualization of project results as a interactive dashboard
 
 
-### 🛠 Technologies
+## 🛠 Technologies
 
 🔹 SQL (PostgreSQL/DBeaver)
 
 🔹 Tableau 
 
 
-### 📊 Key metrics
+## 📊 Key metrics
 
 1. Monthly Recurring Revenue (MRR) 
 2. Paid Users
@@ -42,7 +41,7 @@ The project concerns the revenue generated from video games sales between March 
 11. Customer LifeTime Value (LTV) 
 
 
-### 🏛 Source tables
+## 🏛 Source tables
 
 📌 games_paid_users - Table containing user data (user ID, game name, language, age)
 
@@ -51,7 +50,7 @@ The project concerns the revenue generated from video games sales between March 
 📌 projekt 2PP - query for payment month, MRR, new MRR, new users, churned users, churned revenue
 
 
-### 💡 Results and conclusions
+## 💡 Results and conclusions
 
 ✅ 
 
@@ -59,7 +58,7 @@ The project concerns the revenue generated from video games sales between March 
 
 ✅ 
 
-### 🔗 Link
+## 🔗 Link
 
 https://public.tableau.com/views/FinalProject2REVENUEMETRICS/Project2RevenueMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
