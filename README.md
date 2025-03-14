@@ -7,13 +7,18 @@ The project concerns the revenue generated from video games sales between March 
 
 ### 🎯 Goals
 
-✅ Merging data from the tables: facebook_adset, facebook_campaign, facebook_ads_basic_daily, and google_ads_basic_daily into a single database.
+✅ Calculating financial metrics – Analyzing MRR, new users, churned users, and their impact on overall revenue
 
-✅ Calculating key marketing metrics (CPC, CPM, CTR, ROMI).
+✅ User segmentation – Grouping players based on age, language, payment history
 
-✅ Analyzing campaign performance by traffic source and channel.
+✅ Identifying market trends – Detecting purchasing patterns and user preferences based on sales data
 
-✅ Generating reports and visualizing results.
+✅ Analyzing factors influencing revenue – Identifying key elements such as user count, payments
+
+✅ Optimizing business strategy – Helping product managers make decisions regarding pricing and marketing budget allocation
+
+✅ Visualization of project results as a interactive dashboard
+
 
 ### 🛠 Technologies
 
@@ -39,11 +44,12 @@ The project concerns the revenue generated from video games sales between March 
 
 ### 🏛 Source tables
 
-📌 games_paid_users - table containing user data (user id, game name, language, age)
+📌 games_paid_users - Table containing user data (user ID, game name, language, age)
 
-📌 projects_games_payments - table containing user payment data (user id, game name, payment date, revenue)
+📌 projects_games_payments - Table containing user payment data (user ID, game name, payment date, revenue)
 
-📌
+📌 projekt 2PP - query for payment month, MRR, new MRR, new users, churned users, churned revenue
+
 
 ### 💡 Conclusions
 
