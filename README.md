@@ -39,7 +39,7 @@ The project concerns the revenue generated from video games sales between March 
 
 ### 🏛 Source tables
 
-📌 
+📌 games_paid_users - 
 
 ### 💡 Conclusions
 
