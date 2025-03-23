@@ -62,5 +62,4 @@ The project concerns the revenue generated from video games sales between March 
 
 https://public.tableau.com/views/FinalProject2REVENUEMETRICS/Project2RevenueMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-
-![Opis ](https://github.com/KatarzynaKrauza/Project-Revenue-metrics/blob/main/Revenue%20Metrics.png)
+![Opis](https://github.com/KatarzynaKrauza/Project-Revenue-metrics/blob/main/Revenue%20metrics..png)
