@@ -2,17 +2,17 @@
 
 ## 📝 Project description
 
-The project concerns the revenue generated from video games sales between March and December 2022. It will enable product managers to track the dynamics of revenue changes and analyze the factors influencing these revenues.
+The project concerns the revenue generated from video games sales between March and December 2022. It will enable product managers to track the dynamics of revenue changes and analyse the factors influencing these revenues.
 
 ## 🎯 Goals
 
-✅ Calculating financial metrics – Analyzing MRR, new users, churned users, and their impact on overall revenue
+✅ Calculating financial metrics – Analysing MRR, new users, churned users, and their impact on overall revenue
 
 ✅ User segmentation – Grouping players based on age, language, payment history
 
 ✅ Identifying market trends – Detecting purchasing patterns and user preferences based on sales data
 
-✅ Analyzing factors influencing revenue – Identifying key elements such as user count, payments
+✅ Analysing factors influencing revenue – Identifying key elements such as user count, payments
 
 ✅ Optimizing business strategy – Helping product managers make decisions regarding pricing and marketing budget allocation
 
