@@ -60,4 +60,4 @@ The project concerns the revenue generated from video games sales between March 
 ## 🔗 Link
 (https://public.tableau.com/views/RevenuemetricsGAMESALES/RevenueMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Opis](https://github.com/KatarzynaKrauza/Project-Revenue-metrics/blob/main/Revenue%20metrics..png)
+![Opis](https://github.com/KatarzynaKrauza/Project-Revenue-metrics/blob/main/Revenue%20Metrics%20Game%20Sales%202022.png)
