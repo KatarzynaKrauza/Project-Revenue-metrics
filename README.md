@@ -38,6 +38,8 @@ The project concerns the revenue generated from video games sales between March 
 8. Churned revenue 
 9. Contraction MRR 
 10. Expansion MRR
+11. Customer LifeTime
+12. Customer Life Time Value
  
 
 ## 🏛 Source tables
@@ -46,7 +48,7 @@ The project concerns the revenue generated from video games sales between March 
 
 📌 projects_games_payments - Table containing user payment data (user ID, game name, payment date, revenue)
 
-📌 projekt 2PP - query for payment month, MRR, new MRR, new users, churned users, churned revenue
+📌 projekt II - query for payment month, MRR, new MRR, new users, churned users, churned revenue
 
 
 ## 💡 Results and conclusions
