@@ -1,4 +1,4 @@
-<h1 align="center">Revenue Metrics</h1>
+<h1 align="center">Revenue Metrics for Video Game Sales (Mar-Dec 2022)</h1>
 
 ## 📝 Project description
 
@@ -34,12 +34,11 @@ The project concerns the revenue generated from video games sales between March 
 4. New Paid Users
 5. New MRR 
 6. Churned Users 
-7. Churn Rate 
+7. Users Retention Rate - Cohort Analysis
 8. Churned revenue 
-9. Revenue Churn rate 
-10. Customer LifeTime (LT)
-11. Customer LifeTime Value (LTV) 
-
+9. Contraction MRR 
+10. Expansion MRR
+ 
 
 ## 🏛 Source tables
 
@@ -59,7 +58,6 @@ The project concerns the revenue generated from video games sales between March 
 ✅ 
 
 ## 🔗 Link
-
-https://public.tableau.com/views/FinalProject2REVENUEMETRICS/Project2RevenueMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+(https://public.tableau.com/views/RevenuemetricsGAMESALES/RevenueMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Opis](https://github.com/KatarzynaKrauza/Project-Revenue-metrics/blob/main/Revenue%20metrics..png)
