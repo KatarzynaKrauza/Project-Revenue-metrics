@@ -48,7 +48,8 @@ The project concerns the revenue generated from video games sales between March 
 
 📌 projects_games_payments - Table containing user payment data (user ID, game name, payment date, revenue)
 
-📌 projekt II - query for payment month, MRR, new MRR, new users, churned users, churned revenue
+📌 projekt II - query for payment_month, payment_date, revenue_amount_usd, monthly_mrr, previous_mrr, expansion_mrr, contraction_mrr, is_new_user, 
+  is_churned
 
 
 ## 💡 Results and conclusions
