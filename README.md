@@ -57,9 +57,9 @@ The project concerns the revenue generated from video games sales between March 
 
 ✅ Monthly Recurring Revenue (MRR) grew steadily from $1,491 in March to $9,344 in October. In November and December, it dropped slightly to $8,425 and $8,440. During the same time, the number of active users increased from 43 in March to 189 in December, showing that more users were joining each month
 
-✅ Game 3 was the most popular, purchased by 373 users and generating $62,850 in revenue. Game 1 had the lowest sales, with only 3 users and $69 in revenue
+✅ Game 3 was the most popular, purchased by 373 users and generating $62,850 in revenue. Game 1 had the lowest sales, with only 3 users and $69 in revenue. This may indicate a lack of market fit or insufficient marketing
 
-✅ The highest revenue came from users aged 19–23 ($22,798) and 14–18 ($19,272), while the lowest came from the 34–44 age group (only $2,435)
+✅ The highest revenue came from users aged 19–23 ($22,798) and 14–18 ($19,272), while the lowest came from the 34–44 age group (only $2,435). The 14–23 age group accounts for 67% of total revenue, making it a key target segment
 
 ✅ September recorded the highest user retention in the first month after initial payment — 78.9%. A similarly high rate was observed in June — 77.8%. The lowest retention was seen in April, with only 22% of users remaining active in the eighth month after their first payment
 
