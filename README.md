@@ -53,11 +53,18 @@ The project concerns the revenue generated from video games sales between March 
 
 ## 💡 Results and conclusions
 
-✅ 
+✅ Between March and December 2022, the total revenue from video game sales amounted to $63,141. During this period, 383 users made a purchase, generating an average revenue per paying user (ARPPU) of $165
 
-✅ 
+✅ Monthly Recurring Revenue (MRR) grew steadily from $1,491 in March to $9,344 in October. In November and December, it dropped slightly to $8,425 and $8,440. During the same time, the number of active users increased from 43 in March to 189 in December, showing that more users were joining each month
 
-✅ 
+✅ Game 3 was the most popular, purchased by 373 users and generating $62,850 in revenue. Game 1 had the lowest sales, with only 3 users and $69 in revenue
+
+✅ The highest revenue came from users aged 19–23 ($22,798) and 14–18 ($19,272), while the lowest came from the 34–44 age group (only $2,435)
+
+✅ September recorded the highest user retention in the first month after initial payment — 78.9%. A similarly high rate was observed in June — 77.8%. The lowest retention was seen in April, with only 22% of users remaining active in the eighth month after their first payment
+
+✅ In November, the highest churned revenue was recorded, caused by the loss of 71 users, resulting in $2,800 in lost income. However, new users and extra payments from existing ones (Expansion MRR) helped keep total revenue steady.
+ 
 
 ## 🔗 Link
 
