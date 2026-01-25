@@ -48,7 +48,13 @@ Projekt dotyczy przychodów ze sprzedaży gier wideo w okresie od marca do grudn
 📌 projects_games_payments - tabela zawierająca dane o płatnościach użytkowników (ID użytkownika, nazwa gry, data płatności, przychód) 
 
 📌 projekt II - zapytanie zawierające: miesiąc płatności, datę płatności, kwotę przychodu w USD, miesięczny MRR, poprzedni MRR, Expansion MRR, Contraction MRR, status nowego użytkownika, status rezygnacji
+ 
 
+## 🔗 Link do dashboardu
+
+# 👉   [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)](https://public.tableau.com/views/RevenuemetricsGAMESALES/RevenueMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Opis](https://github.com/KatarzynaKrauza/Project-Revenue-metrics/blob/main/Revenue%20metrics.png)
 
 
 ## 💡 Wyniki i wnioski
@@ -65,9 +71,3 @@ Projekt dotyczy przychodów ze sprzedaży gier wideo w okresie od marca do grudn
 
 ✅ W listopadzie zaobserwowano największy odpływ przychodów, spowodowany rezygnacją 71 użytkowników, co przełożyło się na 2 800 $ utraconych wpływów. Mimo to, wzrost liczby nowych użytkowników oraz dodatkowe przychody od obecnych klientów (Expansion MRR) pozwoliły utrzymać stabilny poziom całkowitych przychodów
  
-
-## 🔗 Link
-
-# 👉   [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)](https://public.tableau.com/views/RevenuemetricsGAMESALES/RevenueMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-![Opis](https://github.com/KatarzynaKrauza/Project-Revenue-metrics/blob/main/Revenue%20metrics.png)
