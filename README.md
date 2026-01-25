@@ -34,7 +34,7 @@ Projekt dotyczy przychodów ze sprzedaży gier wideo w okresie od marca do grudn
 4. **New Paid Users** - liczba użytkowników, którzy zaczęli płacić w danym okresie
 5. **New MRR** - MRR wygenerowany przez użytkowników, którzy stali się płacącymi użytkownikami w danym miesiącu
 6. **Churned Users** - liczba użytkowników, którzy przestali płacić w danym okresie
-7. **Users Retention Rate** (Cohort Analysis) - procent użytkowników, którzy pozostają aktywni w kolejnych okresach po pierwszej płatności, wskazujący zdolność produktu do utrzymania użytkowników w czasie
+7. **Users Retention Rate** (Cohort Analysis) - procent użytkowników, którzy pozostają aktywni w kolejnych okresach po pierwszej płatności, wskazuje zdolność produktu do utrzymania użytkowników w czasie
 8. **Churned revenue** - całkowity przychód (revenue) w poprzednim okresie od wszystkich użytkowników, którzy przestali płacić
 9. **Contraction MRR** - kwota, o którą zmniejszył się MRR z miesiąca na miesiąc. Jest on obliczany dla użytkowników, którzy zaczęli płacić mniej w bieżącym miesiącu
 10. **Expansion MRR** - kwota, o którą zwiększył się MRR z miesiąca na miesiąc. Jest on obliczany dla użytkowników, którzy zaczęli płacić więcej w bieżącym miesiącu
