@@ -1,4 +1,4 @@
-<h1 align="center">Revenue Metrics for Video Game Sales (Mar-Dec 2022)</h1>
+<h1 align="center">Analiza przychodów ze sprzedaży gier wideo (III–XII 2022)</h1>
 
 ## 📝 Opis projektu
 
